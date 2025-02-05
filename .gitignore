@@ -1,0 +1,21 @@
+# Python __pycache__ va venv
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+# Django migration va database fayllari
+db.sqlite3
+db.sqlite3-journal
+
+# IDE sozlamalari
+.idea/
+.vscode/
+
+# Log va cache fayllari
+*.log
+*.pot
+*.pyc
+*.pyo
+*.swp
+.DS_Store
